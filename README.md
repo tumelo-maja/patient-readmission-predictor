@@ -2,9 +2,8 @@
 
 ## Dataset Description
 
-Patient data from kaggle. 
+Patient data from kaggle.
 *** More content needed
-
 
 ## Project Goal
 
